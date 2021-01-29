@@ -1,0 +1,25 @@
+.card {
+    margin-left: 15px;
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+.search-list {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.main-image {
+    width: 75px;
+    height: 75px;
+}
+
+.navbar {
+    background-color: rgb(71, 71, 71);
+}
+
+#forecast {
+    padding-top: 10px;
+}
