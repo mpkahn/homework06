@@ -22,7 +22,7 @@ Lastly, a list of recent searches underneath the search bar is displayed (unfort
 ![Example of multiple cities in list](assets/images/img_4.jpg)
 
 ## Credits
-Much credit goes to bootstrap for various elements, icons, and guidance https://icons.getbootstrap.com/
+Much credit goes to bootstrap for various elements, icons, and guidance https://icons.getbootstrap.com/ and https://getbootstrap.com/docs/4.0/components/card/
 
 OpenWeather API is what provided all weather information https://openweathermap.org/api
 
